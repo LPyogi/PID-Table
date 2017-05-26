@@ -26,7 +26,6 @@ py = zeros([100,1]);
 cam = webcam('USB2.0 Camera');
 %%
 preview(cam)
-
 %%
 
 for i = 1.0:1.0:100.0
@@ -68,3 +67,5 @@ writePosition(sy,105.0/180.0);
 fprintf('arduino and servo\n');
 
 fprintf('DONE');
+fprintf('sfmmssdplmE[OSAODPMD');
+%Yogesh Poonia%
